@@ -73,7 +73,6 @@ I’ve also developed **advanced soldering and hardware modification skills**, a
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ryanhfairbanks84096) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rfairwork) 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ryanhfairbanks84096) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
