@@ -59,9 +59,7 @@ I also have experience in **trade show management**, from setting up booths and 
 
 
 ## 🎉 Fun fact  
-I’m a **lifelong manga enthusiast** and have been collecting, sharing, and analyzing this type of media for years.  
-
-I’ve also developed **advanced soldering and hardware modification skills**, allowing me to build **custom PCs that can run both traditional applications and Xbox games seamlessly**.  
+I’ve developed **advanced soldering and hardware modification skills**, allowing me to build **custom PCs that can run traditional applications and console games seamlessly**.  
 
 
 # 💻 Tech Stack:
